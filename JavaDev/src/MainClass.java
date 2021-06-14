@@ -1,1 +1,3 @@
-public Class MainClass{}
+public Class MainClass{
+	int a;
+}
